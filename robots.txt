@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sjiacheng889-hub.github.io/sitemap.xml
