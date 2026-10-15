@@ -1,0 +1,56 @@
+# Zhiqiang Power — Luchuan County Zhiqiang Motor Factory
+
+> Factory-direct diesel generator sets from 30 kW to 2200 kW, built at our own plant in Luchuan County, Guangxi, China, around genuine Yuchai diesel engines and in-house TFW brushless alternators. We sell complete generating sets - open skid, silent canopy and containerised - into Vietnam, the Philippines, Thailand, Malaysia, Myanmar, Indonesia and Singapore. Every set is load-bank tested from 0% to 110% load before it is packed.
+
+Key facts:
+- Legal name: Luchuan County Zhiqiang Motor Factory (陆川县志强电机厂)
+- Founded: 2003
+- Address: West side of Longhao Entrepreneurship Park, Luchuan County, Yulin, Guangxi, China 537700
+- Phone / WhatsApp: +86 150 5749 1423
+- Tel / Fax: +86 775 7231555
+- Sales email: tommy@zhiqiang-power.com
+- After-sales email: as@zhiqiang-power.com
+- Factory certification: ISO 9001 (quality management). This is the only factory certificate we hold; we claim no other.
+- Emissions: declared per engine model as non-road T2, non-road T3 or non-road T4 under China GB 20891, following the -D2x / -D3x / -D4x model suffix.
+- Ratings: ISO 8528-1 (prime PRP / standby ESP). Fuel figures: ISO 3046-1 reference conditions.
+- We sell complete diesel generator sets only. Alternators, engines and spare parts are supplied for the sets we build.
+- Warranty: 1 year; operator training free for the life of the set.
+
+## Catalogue
+- [products/](https://zhiqiang-power.com/products/): Generator sets: 27 models from 30 kW to 2200 kW, 50/60 Hz, with fuel curves and dimensions.
+- [engines/](https://zhiqiang-power.com/engines/): Yuchai diesel engines: 24 generator-drive models across 14 series.
+- [alternators/](https://zhiqiang-power.com/alternators/): Alternators wound in-house: 46 TFW, STC and ST models, 3 kW to 600 kW.
+- [generator-types/](https://zhiqiang-power.com/generator-types/): Enclosure forms: open skid, silent canopy, containerised and trailer-mounted, with the power band each covers.
+- [diesel-generator-price/](https://zhiqiang-power.com/diesel-generator-price/): Price guide: what drives the cost of a set, and what to send us for a quotation.
+- [parts/](https://zhiqiang-power.com/parts/): Genuine spare parts and maintenance kits (250 h / 500 h / 1000 h / 3000 h).
+- [request-a-quote/](https://zhiqiang-power.com/request-a-quote/): One RFQ form for generator sets; an engineer replies with configuration, price and shipping.
+
+## Applications and projects
+- [applications/data-center.html](https://zhiqiang-power.com/applications/data-center.html): Hyperscale & Telecom Data Centers — 500 kW – 2200 kW.
+- [applications/mining.html](https://zhiqiang-power.com/applications/mining.html): Mining, Quarrying & Off-Grid Extraction — 200 kW – 1000 kW.
+- [applications/hospital.html](https://zhiqiang-power.com/applications/hospital.html): Hospitals & Critical Healthcare Facilities — 100 kW – 500 kW.
+- [applications/industrial.html](https://zhiqiang-power.com/applications/industrial.html): Industrial Manufacturing & Textile Mills — 100 kW – 600 kW.
+- [applications/telecom.html](https://zhiqiang-power.com/applications/telecom.html): Telecom Towers & Microgrid Repeaters — 30 kW – 100 kW.
+- [applications/hotel.html](https://zhiqiang-power.com/applications/hotel.html): Hotels, Resorts & Commercial Buildings — 100 kW – 500 kW.
+- [applications/construction.html](https://zhiqiang-power.com/applications/construction.html): Construction & Infrastructure Sites — 50 kW – 300 kW.
+- [applications/island.html](https://zhiqiang-power.com/applications/island.html): Island Electrification & Marine Harbors — 300 kW – 2200 kW.
+- [projects/philippines-hospital-250kva-silent.html](https://zhiqiang-power.com/projects/philippines-hospital-250kva-silent.html): 250 kVA Silent Backup Power for a Metro Manila Hospital (Philippines).
+- [projects/vietnam-nickel-mine-800kva-prime.html](https://zhiqiang-power.com/projects/vietnam-nickel-mine-800kva-prime.html): 800 kVA Open-Frame Prime Power for a Northern Vietnam Nickel Mine (Vietnam).
+
+## Reference
+- [technical/](https://zhiqiang-power.com/technical/): Technical reference: standards, sizing and fuel tables.
+- [factory/](https://zhiqiang-power.com/factory/): Factory and load-bank testing: ISO 9001, the 0% to 110% test sequence.
+- [guides/](https://zhiqiang-power.com/guides/): Buyer guides: 8 long-form answers on fuel consumption, kW to kVA sizing, prime vs standby, 50 Hz vs 60 Hz and more.
+- [markets/](https://zhiqiang-power.com/markets/): ASEAN market and compliance overview.
+
+## Markets
+- [countries/vietnam.html](https://zhiqiang-power.com/countries/vietnam.html): Diesel generators in Vietnam — 220V / 380V · 50Hz, CR Mark – only mandatory for products within QCVN/CR scope (8502 gensets: confirm coverage by HS before shipment).
+- [countries/philippines.html](https://zhiqiang-power.com/countries/philippines.html): Diesel generators in Philippines — 220V / 380V / 480V · 60Hz (1800 RPM), According to publicly referenced trade repository guidance, HS 8502 generating sets may not appear on the mandatory product certification list at import level; project-level permits (e.g. LGU, DENR-EMB for certain ratings) can still apply. Always re-verify with the importer and current official sources..
+- [countries/thailand.html](https://zhiqiang-power.com/countries/thailand.html): Diesel generators in Thailand — 230V / 400V · 50Hz, TISI standards compliance (confirm TIS applicability by model) + MOE import permit for >50kVA.
+- [countries/malaysia.html](https://zhiqiang-power.com/countries/malaysia.html): Diesel generators in Malaysia — 240V / 415V · 50Hz, SIRIM / ST Electrical Approval (Guidelines 2024 Ed., in force since Jun 2025).
+- [countries/myanmar.html](https://zhiqiang-power.com/countries/myanmar.html): Diesel generators in Myanmar — 220V / 380V · 50Hz, Import License via Tradenet 2.0 (buyer) + Form E Certificate of Origin.
+- [countries/indonesia.html](https://zhiqiang-power.com/countries/indonesia.html): Diesel generators in Indonesia — 220V / 380V · 50Hz, SNI (Standar Nasional Indonesia) applies only within the mandatory product scope; installation SLO (Sertifikat Laik Operasi) is issued by an accredited inspection body — confirm both against current regulations with the importer before shipment.
+- [countries/singapore.html](https://zhiqiang-power.com/countries/singapore.html): Diesel generators in Singapore — 230V / 400V · 50Hz, Singapore regulates exhaust emissions from new non-road diesel engines and requires ultra-low-sulphur diesel; publicly referenced guidance cites EU Stage V / US EPA Tier 4 Final equivalence, with engine registration handled through NEA. Electrical installation work must be carried out by an EMA-licensed electrical worker (LEW). Confirm model-level applicability and any standby/emergency exemption with the importer before shipment..
+
+## Optional
+- [sitemap.xml](https://zhiqiang-power.com/sitemap.xml): Full URL list.
