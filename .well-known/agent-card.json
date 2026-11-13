@@ -1,0 +1,66 @@
+{
+  "name": "Zhiqiang Power - Diesel Generator Quotation & Product Information",
+  "description": "Luchuan County Zhiqiang Motor Factory (Zhiqiang Power) builds factory-direct Yuchai diesel generator sets from 30 kW to 2200 kW (50/60 Hz) - open skid, silent canopy, containerised and trailer-mounted - and exports them to Vietnam, the Philippines, Thailand, Malaysia, Myanmar, Indonesia and Singapore. This card lists the services an AI agent can request: a project quotation, product specifications, and company/contact details.",
+  "url": "https://zhiqiang-power.com/",
+  "version": "1.0.0",
+  "capabilities": [
+    "request-quotation",
+    "product-specifications",
+    "company-information"
+  ],
+  "skills": [
+    {
+      "id": "request-generator-quotation",
+      "name": "Request a diesel generator quotation",
+      "description": "Collect the load in kW, duty, frequency, voltage, enclosure, quantity and destination port, then submit via the request-a-quote page; a sales engineer replies with configuration, price and shipping.",
+      "tags": [
+        "rfq",
+        "quotation",
+        "diesel-generator"
+      ],
+      "examples": [
+        "Quote a 250 kVA silent genset for Manila, 60 Hz",
+        "Price 5 units of 100 kW open-skid sets FOB"
+      ]
+    },
+    {
+      "id": "get-product-specifications",
+      "name": "Get generator set specifications",
+      "description": "Return specifications, fuel-consumption curves and dimensions for a model from the 30-2200 kW catalogue.",
+      "tags": [
+        "specifications",
+        "datasheet",
+        "diesel-generator"
+      ],
+      "examples": [
+        "Specs for the 500 kW Yuchai set",
+        "Fuel consumption of the 800 kVA prime model"
+      ]
+    },
+    {
+      "id": "get-company-information",
+      "name": "Get company contact and certification details",
+      "description": "Return the factory address, phone, WhatsApp, email and ISO 9001 certification.",
+      "tags": [
+        "contact",
+        "company",
+        "certification"
+      ],
+      "examples": [
+        "Zhiqiang Power contact details",
+        "Factory address and phone number"
+      ]
+    }
+  ],
+  "contact": {
+    "phoneWhatsApp": "+86 150 5749 1423",
+    "telFax": "+86 775 7231555",
+    "salesEmail": "tommy@zhiqiang-power.com",
+    "afterSalesEmail": "as@zhiqiang-power.com",
+    "address": "West side of Longhao Entrepreneurship Park, Luchuan County, Yulin, Guangxi, China 537700"
+  },
+  "provider": {
+    "organization": "Luchuan County Zhiqiang Motor Factory",
+    "url": "https://zhiqiang-power.com/"
+  }
+}
