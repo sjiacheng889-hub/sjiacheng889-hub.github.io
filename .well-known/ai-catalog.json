@@ -1,0 +1,36 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Luchuan County Zhiqiang Motor Factory",
+    "identifier": "did:web:zhiqiang-power.com",
+    "documentationUrl": "https://zhiqiang-power.com/",
+    "logoUrl": "https://zhiqiang-power.com/brand/logo-zhiqiang.webp"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:zhiqiang-power.com:agent:zhiqiang-power",
+      "displayName": "Zhiqiang Power - Diesel Generator Quotation & Product Information",
+      "type": "application/agent-card+json",
+      "url": "https://zhiqiang-power.com/.well-known/agent-card.json",
+      "description": "Agent card for Luchuan County Zhiqiang Motor Factory: factory-direct Yuchai diesel generator sets 30-2200 kW, with skills for requesting quotations, fetching product specifications and company/contact details.",
+      "capabilities": [
+        "request-quotation",
+        "product-specifications",
+        "company-information"
+      ],
+      "tags": [
+        "diesel-generator",
+        "genset",
+        "Yuchai",
+        "manufacturer",
+        "ASEAN"
+      ],
+      "representativeQueries": [
+        "get a quote for a 250 kVA silent diesel generator",
+        "diesel generator manufacturer in China for Southeast Asia",
+        "specifications and fuel consumption of a 500 kW genset"
+      ],
+      "updatedAt": "2026-10-13T00:00:00Z"
+    }
+  ]
+}
